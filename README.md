@@ -4,3 +4,8 @@ The 3rd ByteDance Youth Training Camp - Backend Session Learning Notes, Implemen
 * Guessing game
 * Online Dictionary
 * SOCKS5 Agent
+## 2020-5-8 Go language - Engineering Practice
+* Concurrent programming
+* Dependency management
+* unit testing
+* Back end HTTP interface of topic and reply list
